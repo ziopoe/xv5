@@ -17,13 +17,13 @@ Obviously you will need an HTML5 compatible browser, here is a list:
   <td><code>Chrome</code></td><td>4.0</td>
 </tr>
 <tr>
-  <td><code>Firefox</code></td><td>3.5</td>
+  <td><code>Firefox</code></td><td>-</td>
 </tr>
 <tr>
   <td><code>Safari</code></td><td>4.0</td>
 </tr>
 <tr>
-  <td><code>Opera</code></td><td>10.5</td>
+  <td><code>Opera</code></td><td>-</td>
 </tr>
 <tr>
   <td><code>Internet Explorer</code></td><td>9.0</td>
