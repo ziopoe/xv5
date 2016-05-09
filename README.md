@@ -1,4 +1,6 @@
 # xv5
+<strong>This script will not work anymore</strong>
+
 HTML5 player for <strong>XVIDEOS</strong> with a bookmarklet
 
 I just don't like flash player, when I can I try to avoid installing it, but one of my most-browsed website doesen't support HTML5 video player like the other major comperitor (xhamster).
@@ -44,3 +46,5 @@ It does for now.
 
 The script use variables already declared on the xvideo page, so if they will change it in the future it will break, if you want to help you can report it to me and i'll try to fix it.
 
+Update 2016:
+Since the new xvideos restiling this script does not work anymore and i will not update it.
